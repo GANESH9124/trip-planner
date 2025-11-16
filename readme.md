@@ -487,8 +487,3 @@ For questions or issues, open a GitHub issue or contact the project maintainers.
 ---
 
 **Happy Planning! 🌍✈️🗺️**
-.idea/
-*.vscode/
-*.md
-*.ps1
-*.sh
