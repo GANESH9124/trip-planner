@@ -1,0 +1,12 @@
+*service-account.json
+*.log
+.DS_Store
+node_modules/
+venv/
+__pycache__/
+*.pyc
+.env
+.idea/
+*.vscode/
+*.md
+*.ps1
